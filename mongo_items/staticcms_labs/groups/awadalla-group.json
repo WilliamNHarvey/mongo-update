@@ -1,0 +1,16 @@
+{
+    "_id" : ObjectId("5a2fe87ef3bd04c37d00df74"),
+    "appid" : ObjectId("5a2fe819f3bd04c37d00df73"),
+    "groupname" : "role-5a2fe7bbd8db338b77dc6105",
+    "update_date" : ISODate("2017-09-22T18:50:53.905Z"),
+    "create_date" : ISODate("2017-09-22T18:50:53.905Z"),
+    "cud_group_name" : "",
+    "users" : [ 
+        {
+            "_id" : ObjectId("5a09eaad110dce83940041a9"),
+            "uid" : ObjectId("58a34a88b0e3e3355dbe961d"),
+            "updatedAt" : ISODate("2017-11-13T18:55:41.219Z")
+        }
+    ],
+    "__v" : NumberLong(0)
+}
